@@ -15,7 +15,7 @@ export const ContactSection = () => {
         <div className="bg-gradient-to-r from-gray-300 to-sky-100 text-gray-900 py-8 px-10 rounded-3xl flex flex-col md:flex-row md:items-center">
           <div>
             <h2 className="font-serif text-lg tracking-wide">
-              Let's create something amazing together !
+              Let&apos;s create something amazing together !
             </h2>
             <p>
               Ready to bring your next project to life? Let's connect and

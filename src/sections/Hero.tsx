@@ -39,7 +39,7 @@ export const HeroSection = () => {
           </h1>
           <p className="mt-4 text-center text-gray-800">
             I specialize in transforming ideas into functional, high-performing
-            web applications. Let's discuss your next project.
+            web applications. Let&apos;s discuss your next project.
           </p>
         </div>
 
@@ -56,7 +56,7 @@ export const HeroSection = () => {
             className="inline-flex items-center gap-2 border border-gray-700 px-8 h-10 rounded-xl bg-gray-700 text-white transform hover:bg-gray-600/90 duration-300"
           >
             <span>👋</span>
-            <span className="font-semibold">Let's Connect</span>
+            <span className="font-semibold">Let&apos;s Connect</span>
           </button>
         </div>
       </div>
