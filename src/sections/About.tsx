@@ -93,7 +93,7 @@ export const AboutSection = () => {
                   My Resume
                 </h2>
                 <a
-                  href="https://drive.google.com/file/d/1b0ZmTpufZS4OZAA0bQEgXyTKnyzEmqU_/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1rm5jkZRO2gDqQeOdUh8v49i0akyPDzDU/view"
                   target="blank"
                 >
                   <Image
